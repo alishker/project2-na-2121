@@ -43,7 +43,7 @@ class NavigationBar extends Component {
   render() {
     return (
       <Navbar expand="lg" style={navstyles} variant="dark">
-        <Navbar.Brand href="/">LEGEND TIE</Navbar.Brand>
+        <Navbar.Brand href="/">tic toe</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
