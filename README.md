@@ -1,7 +1,5 @@
-# RedNinjas TicTacToe
+# TicTacToe
 
-## Problem Statement
-An AI algorithm based Tic-Tac-Toe with incremental levels of difficulty.
 
 ## Description
 In order to build this game, we have made use of the *Minimax* algorithm. This is a recursive algorithm that enables the AI agent to choose the most optimum move based on all the subsequent moves that could take place in the further turns of the game. 
@@ -12,7 +10,7 @@ In the 3x3 version , there are a total of 4 difficulty levels and the ultimate T
 
 **Frontend - ReactJS (Javascript),Bootstrap4 :** 
 
-React was chosen as a framework choice due to its convenient development environment. The virtual DOM used by ReactJS facilitates that the frontend is well decoupled and updation of each component happens independent of the other. This also helps in faster development. The hot reload feature of React is another added advantage.
+React was chosen as a framework choice of choice dues assignments eequirements and its convenient development environment. The virtual DOM used by ReactJS facilitates that the frontend is well decoupled and updation of each component happens independent of the other. This also helps in faster development. The hot reload feature of React is another added advantage.
 
 **Backend - Flask Framework (Python):**
 
